@@ -4,8 +4,19 @@
 }
 
 body{
-    background-image: url(C:/Users/HP/Desktop/Forms/Images/Bike.jpg);
+    background-image: url(/Images/Bike.jpg);
+    
     background-position: center;
     background-size: cover;
     font-family: sans-serif;
+    margin: 3.125rem 0rem 0rem 0rem;
+}
+
+.regForm {
+    width: 50rem;
+    background-color: rgb(0, 0, 6);
+    margin:auto;
+    color: #ffffff;
+    padding: 0.625rem 0rem 0rem 0rem;
+    border-radius: 098.938rem 0.938rem 0rem 0rem;
 }
