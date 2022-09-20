@@ -39,5 +39,10 @@ form {
     height: 20.25rem;
 }
 .name {
-    margin-left: ;
+    margin-left: 25px;
+    margin-top: 30px;
+    width: 125px;
+    color:#ffffff;
+    font-size: 18px;
+    font-weight: 700;
 }
